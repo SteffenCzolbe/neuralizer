@@ -19,7 +19,7 @@ conda env create -f conda.yml
 conda activate neuralizer_env
 ```
 
-Depending on the setup of your notebook environment, you might have to install the kernel as a ipykernel:
+Depending on the setup of your notebook environment, you might have to install the environment as a ipykernel:
 
 ```bash
 python -m ipykernel install --user --name=neuralizer_env
