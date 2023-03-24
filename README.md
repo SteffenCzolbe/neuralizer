@@ -1,4 +1,4 @@
-# Neuralizer: Neuroimage Analysis without Re-Training
+# Neuralizer: General Neuroimage Analysis without Re-Training
 
 Steffen Czolbe, Adrian V. Dalca
 
