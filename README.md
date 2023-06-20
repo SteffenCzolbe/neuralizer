@@ -1,8 +1,9 @@
-# Neuralizer: General Neuroimage Analysis without Re-Training
+# Neuralizer
 
-Steffen Czolbe, Adrian V. Dalca
-
-Presented at CVPR 2023 [[Video]](https://youtu.be/_wgCESDwjZI) [[Paper]](https://arxiv.org/abs/2305.02644)
+Neuralizer: General Neuroimage Analysis without Re-Training  
+[[Steffen Czolbe]](https://steffenczolbe.github.io/), [[Adrian V. Dalca]](http://adalca.mit.edu/)  
+CVPR 2023  
+[[Video]](https://youtu.be/_wgCESDwjZI) [[Paper]](https://arxiv.org/abs/2305.02644)
 
 
 <img src="img/graphical_abstract.png"  width="400" >
