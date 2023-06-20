@@ -1,7 +1,7 @@
 # Neuralizer
 
 Neuralizer: General Neuroimage Analysis without Re-Training  
-[[Steffen Czolbe]](https://steffenczolbe.github.io/), [[Adrian V. Dalca]](http://adalca.mit.edu/)  
+[Steffen Czolbe](https://steffenczolbe.github.io/), [Adrian V. Dalca](http://adalca.mit.edu/)  
 CVPR 2023  
 [[Video]](https://youtu.be/_wgCESDwjZI) [[Paper]](https://arxiv.org/abs/2305.02644)
 
